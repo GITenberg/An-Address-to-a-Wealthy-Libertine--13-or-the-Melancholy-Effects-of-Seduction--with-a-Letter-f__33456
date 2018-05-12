@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35765'
     url: http://www.gutenberg.org/2009/agents/35765
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33456#An-Address-to-a-Wealthy-Libertine--13-or-the-Melancholy-Effects-of-Seduction--with-a-Letter-f_
 gutenberg_issued: '2010-08-17'
 gutenberg_type: Text
 identifiers:
