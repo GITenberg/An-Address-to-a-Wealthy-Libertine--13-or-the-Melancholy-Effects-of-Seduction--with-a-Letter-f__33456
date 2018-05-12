@@ -1,0 +1,30 @@
+_repo: An-Address-to-a-Wealthy-Libertine--13-or-the-Melancholy-Effects-of-Seduction--with-a-Letter-f__33456
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkerson, James
+    gutenberg_agent_id: '35765'
+    url: http://www.gutenberg.org/2009/agents/35765
+description: ''
+gutenberg_issued: '2010-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+tableOfContents: 'An address to a wealthy libertine; or, the melancholy effects of
+  seduction -- A letter from Miss Maria C***, to her parents at -- To the memory of
+  Mr. Page, late of Pulham Market -- Political surgeon -- Cheerful Isaac -- To the
+  memory of Mr. Self, late of Pulham Market Hall -- The valiant captain -- Old Jack:
+  a song -- On the death of Ben Gee -- Elegy on the deaths of Mr. Beale and his daughter.'
+title: "An Address to a Wealthy Libertine\r\nor, the Melancholy Effects of Seduction;\
+  \ with a Letter from an Unfortunate Farmer's Daughter, to her Parents in Norfolk"
+url: http://www.gutenberg.org/ebooks/33456
